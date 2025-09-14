@@ -7,7 +7,7 @@ I enjoy solving complex problems through clean, efficient code and constantly ex
 
 ## 🚀 About Me
 - 🔭 Currently working as a **Senior Software Developer** at **AUMOVIO, Timișoara**  
-- 🌱 Always learning – exploring **Intelligent & Multi-Agent Systems**, **Parallel Computing**, and **Simulation Models**  
+- 🌱 Always learning – exploring **Intelligent & Multi-Agent Systems**, **Parallel Computing**, **Simulation Models** and **Web Development**
 - 💡 Interested in **Backend Systems, Data Analytics and Agent-based Models**  
 - ✨ Passionate about combining **software engineering** and **data visualization** to optimize processes and build meaningful tools  
 
