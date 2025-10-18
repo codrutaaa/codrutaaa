@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Codruța Alexandra Lăcătuș  
 
-💻 **Software Developer** passionate about backend development, data analytics, and automation.  
+💻 **Software Engineer** passionate about backend development, data analytics, and automation.  
 I enjoy solving complex problems through clean, efficient code and constantly explore new technologies to improve performance, scalability, and data-driven decision making.  
 
 ---
