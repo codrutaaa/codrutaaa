@@ -91,8 +91,8 @@ A Web App connecting travelers with locals for cultural exchanges.
 ---
 
 ## 🌍 Languages
-- 🇷🇴 **Romanian** (Native)  
-- 🇬🇧 **English** (Fluent)  
+-  **Romanian** (Native)  
+-  **English** (Fluent)  
 
 ---
 
